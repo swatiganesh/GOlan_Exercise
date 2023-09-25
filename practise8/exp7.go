@@ -18,6 +18,9 @@ func main() {
 	}
 	fmt.Println(s1)
 
+	s2 := Student{110, "usha", "naik", 79}
+	fmt.Printf("Roll number of %v is : %v ", s2.fname, s2.rollno)
+
 }
 
 //https://github.com/swatiganesh/all-examples.git
