@@ -1,8 +1,8 @@
-package main
+package practise2
 
 import "fmt"
 
-func main() {
+func Practise2() {
 
 	// var a bool = true
 	// fmt.Printf("%v, %T", a, a)
